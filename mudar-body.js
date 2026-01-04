@@ -12,3 +12,5 @@ btnCadastrar.addEventListener("click", function(){
     body.className = "cadastrar-js"
 })
 
+
+//teste
